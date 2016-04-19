@@ -1,0 +1,28 @@
+name: 'ebp #1'
+favicon: null
+layout_spectrum: 0.8676363984122872
+typography_spectrum: 0.5263772034086287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.639095819555223
+  lightness: 0.8268493874929845
+  saturation: 0.1598353609442711
+  rhythmicContrast: 0.7921157686505467
+purpose: []
