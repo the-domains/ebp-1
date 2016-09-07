@@ -1,22 +1,16 @@
-favicon: null
-name: 'ebp #1'
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.5625
@@ -27,14 +21,20 @@ color:
     - '#191919'
     - '#b49f9b'
     - '#8f726e'
-  rhythmicContrast: 1
-typography_spectrum: 0.5263772034086287
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.9659575
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'ebp #1'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5263772034086287
+layout_spectrum: 0
